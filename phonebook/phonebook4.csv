@@ -1,0 +1,12 @@
+First Name,Last Name,Phone Number,Email Address (Optional),Address (Optional)
+John,Doe,333-555-1234,johndoe@example.com,"123 Main St, Anytown, USA"
+Jane,Smith,000-555-5678,janesmith@example.com,"456 Oak St, Anytown, USA"
+Emily,Jones,888-555-8765,,"789 Pine St, Anytown, USA"
+Michael,Brown,555-555-4321,michaelbrown@example.com,
+Sarah,Johnson,333-555-3456,,"321 Maple St, Anytown, USA"
+s,j,9999999999,32@oo.com,777rid st
+John,Doe,555-3331234,john.doe@example.com,123 Elm St
+Jane,Smith,5355-567833,jane.smith@example.com,456 Oak St
+Alice,Johnson,533355-8765,alice.johnson@example.com,
+Bob,Brown,555-43-33321,,789 Pine St
+Charlie,Davis,5355-3-55456,charlie.davis@example.com,
